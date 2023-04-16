@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "qrproj",
-    "slug": "qrproj",
+    "name": "deliveroo",
+    "slug": "deliveroo",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/delivero.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/deliveroo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
